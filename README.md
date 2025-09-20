@@ -6,7 +6,7 @@ I created this project to reinforce my understanding of the **DOM (Document Obje
 ---
 
 ## 🚀 Live Demo
-🔗 [Play the Game Here](https://daniel-fugar.github.io/pig-game/)
+🔗 [Play the Game Here](https://daniel-fugar.github.io/pig-game-app/)
 
 ---
 
